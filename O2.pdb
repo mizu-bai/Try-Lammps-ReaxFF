@@ -1,0 +1,6 @@
+REMARK   This PDB file was created by CS Chem3D.
+HETATM    1  O           1      -1.942   0.601   1.459                      O 
+HETATM    2  O           1      -1.007   0.547   0.850                      O 
+CONECT    1    2
+CONECT    2    1
+END
